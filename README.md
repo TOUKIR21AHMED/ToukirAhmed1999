@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toukir Ahmed</h1>
-<h3 align="center">"Web developer & Weaver: Blending Artistry with Code to Craft Digital Masterpieces"</h3>
+<h3 align="center">"Web developer & Weaver(MERN): Blending Artistry with Code to Craft Digital Masterpieces"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toukirahmed1999&label=Profile%20views&color=0e75b6&style=flat" alt="toukirahmed1999" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ToukirAhmed1999](https://github.com/ToukirAhmed1999)
 
-- 💬 Ask me about **HTML,CSS,JS,MY SQl**
+- 💬 Ask me about **ReactJs,NodeJs,Firebase,HTML,CSS,JS,MY SQl**
 
 - 📫 How to reach me **ahmed18@cse.pstu.ac.bd**
 
